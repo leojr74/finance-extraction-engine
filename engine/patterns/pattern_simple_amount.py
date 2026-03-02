@@ -40,3 +40,4 @@ class SimpleAmountLinePattern(TransactionPattern):
             "source_bank": source_bank,
             "raw_text": text,
         }
+    
